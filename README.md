@@ -1,6 +1,6 @@
 # **PROJECT CV 1: FACE RECOGNITION**
 
-Supported by: Indonesia AI - Computer Vision Specialist Bootcamp Batch 3
+**Supported by: Indonesia AI - Computer Vision Specialist Bootcamp Batch 3**
 
 Teams: 
 1. Amar Ma'ruf (VGG)
